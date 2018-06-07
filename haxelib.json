@@ -1,0 +1,18 @@
+{
+	"name": "haxe-aws-js",
+	"description": "Javascript externs for amazon web services",
+	"classPath": "src",
+	"url": "https://github.com/Randonee/haxe-aws-js",
+	"contributors": [
+		"randonee"
+	],
+	"version": "0.0.1",
+	"tags": [
+		"aws",
+		"appsync",
+		"cognito",
+		"amplify",
+		"amazon"
+	],
+	"license": "MIT"
+}
